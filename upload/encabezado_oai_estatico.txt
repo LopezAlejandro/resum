@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+       xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                          http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+  <Identify>
+	<oai:repositoryName>sisbi.uba.ar</oai:repositoryName>
+	<oai:baseURL>http://sisbi.uba.ar/oai/setestatico.xml</oai:baseURL>
+
+	<oai:protocolVersion>2.0</oai:protocolVersion>
+
+	<oai:adminEmail>admin@sisbi.uba.ar</oai:adminEmail>
+
+	<oai:earliestDatestamp>2000-05-19</oai:earliestDatestamp>
+
+	<oai:deletedRecord>no</oai:deletedRecord>
+
+	<oai:granularity>YYYY-MM-DD</oai:granularity>
+
+  </Identify>
+
+  <ListMetadataFormats>
+
+    <oai:metadataFormat>
+
+      <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+
+      <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+
+      <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/
+
+          </oai:metadataNamespace>
+
+    </oai:metadataFormat>
+
+    <oai:metadataFormat>
+
+      <oai:metadataPrefix>oai_rfc1807</oai:metadataPrefix>
+
+      <oai:schema>http://www.openarchives.org/OAI/1.1/rfc1807.xsd</oai:schema>
+
+      <oai:metadataNamespace>http://info.internet.isi.edu:80/in-notes/rfc/files/rfc1807.txt
+
+           </oai:metadataNamespace>
+
+    </oai:metadataFormat>
+
+  </ListMetadataFormats>
+
+  <ListRecords metadataPrefix="oai_dc">

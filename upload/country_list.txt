@@ -1,0 +1,247 @@
+fieldid;Afghanistan;1
+fieldid;Aland;2
+fieldid;Albania;3
+fieldid;Algeria;4
+fieldid;American Samoa;5
+fieldid;Andorra;6
+fieldid;Angola;7
+fieldid;Anguilla;8
+fieldid;Antarctica;9
+fieldid;Antigua and Barbuda;10
+fieldid;Argentina;11
+fieldid;Armenia;12
+fieldid;Aruba;13
+fieldid;Ascension Island;14
+fieldid;Australia;15
+fieldid;Austria;16
+fieldid;Azerbaijan;17
+fieldid;Bahamas;18
+fieldid;Bahrain;19
+fieldid;Bangladesh;20
+fieldid;Barbados;21
+fieldid;Belarus;22
+fieldid;Belgium;23
+fieldid;Belize;24
+fieldid;Benin;25
+fieldid;Bermuda;26
+fieldid;Bhutan;27
+fieldid;Bolivia;28
+fieldid;Bosnia and Herzegovina;29
+fieldid;Botswana;30
+fieldid;Bouvet Island;31
+fieldid;Brazil;32
+fieldid;British Virgin Islands;33
+fieldid;British Indian Ocean Territory;34
+fieldid;Brunei Darussalam;35
+fieldid;Bulgaria;36
+fieldid;Burkina Faso;37
+fieldid;Burundi;38
+fieldid;Cambodia;39
+fieldid;Cameroon;40
+fieldid;Canada;41
+fieldid;Cap Verde;42
+fieldid;Cayman Islands;43
+fieldid;Central African Republic;44
+fieldid;Chad;45
+fieldid;Channel Islands;46
+fieldid;Chile;47
+fieldid;China;48
+fieldid;Christmas Island;49
+fieldid;Cocos (Keeling) Island;50
+fieldid;Colombia;51
+fieldid;Comoros;52
+fieldid;Congo, Republic of;53
+fieldid;Congo, Democratic Republic of;54
+fieldid;Cook Islands;55
+fieldid;Costa Rica;56
+fieldid;Cote d'Ivoire;57
+fieldid;Croatia;58
+fieldid;Cuba;59
+fieldid;Cyprus;60
+fieldid;Czech Republic;61
+fieldid;Denmark;62
+fieldid;Djibouti;63
+fieldid;Dominica;64
+fieldid;Dominican Republic;65
+fieldid;Ecuador;66
+fieldid;Egypt;67
+fieldid;El Salvador;68
+fieldid;Equatorial Guinea;69
+fieldid;Eritrea;70
+fieldid;Estonia;71
+fieldid;Ethiopia;72
+fieldid;Faroe Islands;73
+fieldid;Falkland Islands (Malvinas);74
+fieldid;Fiji;75
+fieldid;Finland;76
+fieldid;France;77
+fieldid;French Guiana;78
+fieldid;French Polynesia;79
+fieldid;French Southern Territories;80
+fieldid;Gabon;81
+fieldid;Gambia;82
+fieldid;Georgia;83
+fieldid;Germany;84
+fieldid;Ghana;85
+fieldid;Gibraltar;86
+fieldid;Greece;87
+fieldid;Greenland;88
+fieldid;Grenada;89
+fieldid;Guadeloupe;90
+fieldid;Guam;91
+fieldid;Guatemala;92
+fieldid;Guernsey;93
+fieldid;Guinea;94
+fieldid;Guinea-Bissau;95
+fieldid;Guyana;96
+fieldid;Haiti;97
+fieldid;Heard and McDonald Islands;98
+fieldid;Honduras;99
+fieldid;Hong Kong;100
+fieldid;Hungary;101
+fieldid;Iceland;102
+fieldid;India;103
+fieldid;Indonesia;104
+fieldid;Iran;105
+fieldid;Iraq;106
+fieldid;Ireland;107
+fieldid;Isle of Man;108
+fieldid;Israel;109
+fieldid;Italy;110
+fieldid;Jamaica;111
+fieldid;Japan;112
+fieldid;Jersey;113
+fieldid;Jordan;114
+fieldid;Kazakhstan;115
+fieldid;Kenya;116
+fieldid;Kiribati;117
+fieldid;Korea, North;118
+fieldid;Korea, South;119
+fieldid;Kuwait;120
+fieldid;Kyrgyzstan;121
+fieldid;Laos;122
+fieldid;Latvia;123
+fieldid;Lebanon;124
+fieldid;Lesotho;125
+fieldid;Liberia;126
+fieldid;Libya;127
+fieldid;Liechtenstein;128
+fieldid;Lithuania;129
+fieldid;Luxembourg;130
+fieldid;Macau;131
+fieldid;Macedonia;132
+fieldid;Madagascar;133
+fieldid;Malawi;134
+fieldid;Malaysia;135
+fieldid;Maldives;136
+fieldid;Mali;137
+fieldid;Malta;138
+fieldid;Marshall Islands;139
+fieldid;Martinique;140
+fieldid;Mauritania;141
+fieldid;Mauritius;142
+fieldid;Mayotte;143
+fieldid;Mexico;144
+fieldid;Micronesia;145
+fieldid;Moldova;146
+fieldid;Monaco;147
+fieldid;Mongolia;148
+fieldid;Montserrat;149
+fieldid;Morocco;150
+fieldid;Mozambique;151
+fieldid;Myanmar;152
+fieldid;Namibia;153
+fieldid;Nauru;154
+fieldid;Nepal;155
+fieldid;Netherlands;156
+fieldid;Netherlands Antilles;157
+fieldid;New Caledonia;158
+fieldid;New Zealand;159
+fieldid;Nicaragua;160
+fieldid;Niue;161
+fieldid;Niger;162
+fieldid;Nigeria;163
+fieldid;Norfolk Island;164
+fieldid;Northern Mariana Islands;165
+fieldid;Norway;166
+fieldid;Oman;167
+fieldid;Pakistan;168
+fieldid;Palau;169
+fieldid;Palestinian Territory, Occupied;170
+fieldid;Panama;171
+fieldid;Papua New Guinea;172
+fieldid;Paraguay;173
+fieldid;Peru;174
+fieldid;Philippines;175
+fieldid;Pitcairn Island;176
+fieldid;Poland;177
+fieldid;Portugal;178
+fieldid;Puerto Rico;179
+fieldid;Qatar;180
+fieldid;Reunion;181
+fieldid;Romania;182
+fieldid;Russia;183
+fieldid;Rwanda;184
+fieldid;Saint Helena;185
+fieldid;Saint Kitts and Nevis;186
+fieldid;Saint Lucia;187
+fieldid;Saint Pierre and Miquelon;188
+fieldid;Saint Vincent and the Grenadines;189
+fieldid;Samoa;190
+fieldid;San Marino;191
+fieldid;Sao Tome and Principe;192
+fieldid;Saudia Arabia;193
+fieldid;Senegal;194
+fieldid;Serbia and Montenegro;195
+fieldid;Seychelles;196
+fieldid;Sierra Leone;197
+fieldid;Singapore;198
+fieldid;Slovak Republic;199
+fieldid;Slovenia;200
+fieldid;Solomon Islands;201
+fieldid;Somalia;202
+fieldid;South Africa;203
+fieldid;South Georgia and the South Sandwich Islands;204
+fieldid;Spain;205
+fieldid;Sri Lanka;206
+fieldid;Sudan;207
+fieldid;Suriname;208
+fieldid;Svalbard and Jan Mayen Islands;209
+fieldid;Swaziland;210
+fieldid;Sweden;211
+fieldid;Switzerland;212
+fieldid;Syria;213
+fieldid;Taiwan;214
+fieldid;Tajikistan;215
+fieldid;Tanzania;216
+fieldid;Thailand;217
+fieldid;Timor-Leste;218
+fieldid;Togo;219
+fieldid;Tokelau;220
+fieldid;Tonga;221
+fieldid;Trinidad and Tobago;222
+fieldid;Tunisia;223
+fieldid;Turkey;224
+fieldid;Turkmenistan;225
+fieldid;Turks and Caicos Islands;226
+fieldid;Tuvalu;227
+fieldid;Uganda;228
+fieldid;Ukraine;229
+fieldid;United Arab Emirates;230
+fieldid;United Kingdom;231
+fieldid;United States of America;232
+fieldid;United States Virgin Islands;233
+fieldid;Uruguay;234
+fieldid;US Minor Outlying Islands;235
+fieldid;USSR;236
+fieldid;Uzbekistan;237
+fieldid;Vanuatu;238
+fieldid;Vatican City State (Holy See);239
+fieldid;Venezuela;240
+fieldid;Vietnam;241
+fieldid;Wallis and Futuna Islands;242
+fieldid;Western Sahara;243
+fieldid;Yemen;244
+fieldid;Yugoslavia;245
+fieldid;Zambia;246
+fieldid;Zimbabwe;247
