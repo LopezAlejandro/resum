@@ -8,7 +8,7 @@ function logToFile($filename, $msg)
     // open file
     $fd = fopen($filename, 'a');
     // append date/time to message
-    $str = '[' . date('Y/m/d h:i:s', mktime()) . '] ' . $msg;
+    $str = '[' . date('Y/m/d h:i:s', time()) . '] ' . $msg;
     // write string
     fwrite($fd, $str);
     // close file
@@ -161,8 +161,16 @@ try {
 			        ";
 					$email = new PHPMailer;
 					$email->isSMTP();
-					$email->SMTPDebug = 0;
-					$email->Debugoutput = 'html';
+					$email->SMTPDebug = 2;
+
+					//Generar log
+					$date = date('d_m_Y-h_i_s_A', time());
+					$log = fopen( $date.'_SMTP.txt', 'w' );
+        
+					$email->Debugoutput = function($str) use ($date) {
+							error_log($str, 3, $date.'_SMTP.txt');
+					};
+//					$email->Debugoutput = 'html';
 					$email->Host = $credenciales["host"];
 					$email->Port = $credenciales["port"];
 					$email->SMTPSecure = 'tls';
@@ -171,6 +179,8 @@ try {
 					$email->Password = $credenciales["password"];
 					$email->setFrom('biblio@fadu.uba.ar', 'Sistema de reserva Biblioteca FADU');
 					$email->addAddress('biblio@fadu.uba.ar', 'Biblioteca FADU');
+					$email->addCC('gwinkler@fadu.uba.ar');
+					$email->addBCC('lopalejandro@gmail.com');
 					$email->Subject = $subject;
 					$email->Body = $contenth;
 					$email->AltBody = $content;
@@ -179,8 +189,8 @@ try {
 
 					//Loguear actividad del usuario
 		    
-					logToFile('sum.log', 'Pedido de '.$solicitante.' para el dia '.$inicio.' desde la IP '.getRealIP()."\n"); 
-
+					logToFile('sum.log', 'Pedido de '.$solicitante.' para el dia '.$inicio.' desde la IP '.getRealIP()."\n".$email->ErrorInfo);
+					fclose($log);
         			$responseArray = array('type' => 'success', 'message' => $okMessage);
     }
 } catch (\Exception $e) {
